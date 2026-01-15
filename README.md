@@ -26,5 +26,28 @@ DartPivot includes a wide range of tools organized by category:
 - **PNG to JPG**: Convert PNG images to JPG format.
 ## 📦 Installation
 You can download the latest installer from the [Releases](https://github.com/X3n0n78/DartPivot/releases) page.
+Alternatively, you can build it from source:
+### Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install) installed.
+- Windows, Linux, or macOS environment.
+### Build Steps
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/yourusername/dart-pivot.git
+    cd dart-pivot
+    ```
+2.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+3.  **Run the application:**
+    ```bash
+    flutter run -d windows
+    ```
+    *(Or `-d macos` / `-d linux` depending on your OS)*
+4.  **Build Release:**
+    ```bash
+    flutter build windows --release
+    ```
 ## 📄 License
 This project is licensed under the Apache 2.0a License - see the [LICENSE](LICENSE) file for details.
