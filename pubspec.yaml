@@ -1,0 +1,43 @@
+name: dart_pivot
+description: "DartPivot - A developer tool suite (formerly DevToys Clone)."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.10.7
+
+dependencies:
+  code_text_field: ^1.1.0
+  crypto: ^3.0.7
+  diff_match_patch: ^0.4.1
+  file_picker: ^10.3.8
+  flutter:
+    sdk: flutter
+  flutter_highlight: ^0.7.0
+  flutter_isolate: ^2.1.0
+  flutter_markdown: ^0.7.7+1
+  flutter_riverpod: ^3.1.0
+  font_awesome_flutter: ^10.12.0
+  go_router: ^17.0.1
+  google_fonts: ^7.0.2
+  highlight: ^0.7.0
+  image: ^4.7.2
+  intl: ^0.20.2
+  json2yaml: ^3.0.1
+  lorem_ipsum: ^0.0.3
+  path_provider: ^2.1.5
+  shared_preferences: ^2.5.4
+  url_launcher: ^6.3.2
+  uuid: ^4.5.2
+  window_manager: ^0.5.1
+  xml: ^6.6.1
+  yaml: ^3.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
