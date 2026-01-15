@@ -33,7 +33,7 @@ Alternatively, you can build it from source:
 ### Build Steps
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/dart-pivot.git
+    git clone https://github.com/X3n0n78/dart-pivot.git
     cd dart-pivot
     ```
 2.  **Install dependencies:**
