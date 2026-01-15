@@ -25,6 +25,6 @@ DartPivot includes a wide range of tools organized by category:
 - **Image Resizer**: Resize images with custom dimensions.
 - **PNG to JPG**: Convert PNG images to JPG format.
 ## 📦 Installation
-You can download the latest installer from the [Releases](https://github.com/X3n0n78/dart-pivot/releases) page (coming soon).
+You can download the latest installer from the [Releases](https://github.com/X3n0n78/DartPivot/releases) page.
 ## 📄 License
 This project is licensed under the Apache 2.0a License - see the [LICENSE](LICENSE) file for details.
